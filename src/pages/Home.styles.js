@@ -6,3 +6,6 @@ export const HomeContainer = styled.div`
         color:green;
     }
 `
+export const LinksContainer = styled.a`
+
+`
